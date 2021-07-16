@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/monikahm
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning react with typescript, swagger and firebase
-📫 How to reach me: linkedin.com/monikahm
+🌱 I’m currently learning react with typescript, swagger and firebase. 
+📫 How to reach me: linkedin.com/monikahm. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monikahm)](https://github.com/anuraghazra/github-readme-stats)

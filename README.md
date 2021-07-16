@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning react with typescript, swagger and firebase. 
+
 📫 How to reach me: linkedin.com/monikahm. 
 
 

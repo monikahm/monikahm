@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me: linkedin.com/monikahm. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monikahm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monikahm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikahm)](https://github.com/anuraghazra/github-readme-stats)

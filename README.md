@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/monikahm
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning react with typescript, swagger and firebase. 
+🌱 I’m currently learning react with typescript, zod, tailwind and prisma. 
 
 📫 How to reach me: linkedin.com/monikahm. 
 
